@@ -1,2 +1,2 @@
-# python-docker-dev-example
-Python App using Docker
+## Simple python docker dev example for the official docker docs
+https://docs.docker.com/language/python/develop/
